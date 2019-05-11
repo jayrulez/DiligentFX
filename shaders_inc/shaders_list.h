@@ -179,6 +179,10 @@ static const ShaderIncInfo g_Shaders[] =
         #include "EpipolarLightScatteringStructures.fxh.h"
     },
     {
+        "SSAO.fx",
+        #include "SSAO.fx.h"
+    },
+    {
         "ToneMapping.fxh",
         #include "ToneMapping.fxh.h"
     },
